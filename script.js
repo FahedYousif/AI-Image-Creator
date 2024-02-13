@@ -1,4 +1,4 @@
-const api = "KEY";
+const api = "api KEY";
 const inp = document.getElementById('inp')
 const images = document.querySelector('.images')
 
